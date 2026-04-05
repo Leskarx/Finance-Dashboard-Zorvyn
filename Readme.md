@@ -165,7 +165,7 @@ src/
 
 ```bash
 git clone https://github.com/Leskarx/Finance-Dashboard-Zorvyn
-cd finance-dashboard
+cd Finance-Dashboard-Zorvyn
 ```
 
 2. Install dependencies
